@@ -1,4 +1,4 @@
-package BankATM;
+package Bank;
 
 public class Account {
 
