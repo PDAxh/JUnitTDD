@@ -6,6 +6,10 @@
       <root url="jar://$PROJECT_DIR$/../../JAVA Jar files/javax.persistence.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../JAVA Jar files/json-20171018.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../JAVA Jar files/httpcore-4.0-beta3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-path-2.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hamcrest-all-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/utj2-code/code/iloveyouboss/tdd-7/lib/hamcrest-all-1.3.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

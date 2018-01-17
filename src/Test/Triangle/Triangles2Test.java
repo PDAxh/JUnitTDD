@@ -1,5 +1,6 @@
 package Triangle;
 
+import TDDLessons.Lesson1.Triangles2;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
