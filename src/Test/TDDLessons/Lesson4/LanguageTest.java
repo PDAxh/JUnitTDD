@@ -45,11 +45,12 @@ public class LanguageTest {
                 count++;
             }
         }
-
+        assertEquals(6, count);
     }
 
     @Test
     public void checking4Vowels(){
         String name = "Daniel is the king" ;
+
     }
 }

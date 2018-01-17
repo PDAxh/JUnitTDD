@@ -36,6 +36,6 @@ public class BankAccountTest {
         account.deposit(amountToDeposit);
         account.withdraw(amountToWithdraw);
 
-        assertTrue(1000 == account.getBalance());
+        assertFalse(1000 == account.getBalance());
     }
 }
